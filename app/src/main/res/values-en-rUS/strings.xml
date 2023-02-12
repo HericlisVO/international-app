@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">InternationalApp</string>
+
+    <string name="saudacao">Olá Mundo!</string>
+    <string name="apresentacao">For everyone who does not know me, I am Hericlis Ventura and I am 26 years old, i study android development and love technology!</string>
+</resources>

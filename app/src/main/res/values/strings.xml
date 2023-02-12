@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InternationalApp</string>
+    <string name="saudacao">Olá Mundo!</string>
+    <string name="apresentacao">Para todos que não me conhece, sou Hericlis Ventura e tenho 26 anos de idade, estudo desenvolvimento android e amo tecnologia!</string>
+</resources>
