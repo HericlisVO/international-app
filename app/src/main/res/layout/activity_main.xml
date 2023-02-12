@@ -9,10 +9,20 @@
     <TextView
         android:layout_width="75dp"
         android:layout_height="19dp"
-        android:text="Hello Mundo!"
+        android:text="@string/saudacao"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.287" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="362dp"
+        android:layout_height="425dp"
+        android:text="@string/apresentacao"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="24dp"
+        tools:layout_editor_absoluteY="242dp" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
